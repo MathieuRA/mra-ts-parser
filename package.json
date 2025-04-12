@@ -1,0 +1,14 @@
+{
+  "name": "@mra/ts-parser",
+  "type": "module",
+  "devDependencies": {
+    "@types/node": "^22.14.1",
+    "typescript": "^5.8.3"
+  },
+  "engines": {
+    "node": "23.11.0"
+  },
+  "scripts": {
+    "start": "node index.ts"
+  }
+}
