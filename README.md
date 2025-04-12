@@ -92,3 +92,4 @@ interface Group {
 - [ ] Support for imported types
 - [ ] Support unordered types/interfaces
 - [ ] Support null type
+- [ ] Support dynamic type
