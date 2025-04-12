@@ -90,4 +90,5 @@ interface Group {
 ## 🧪 Future Ideas
 
 - [ ] Support for imported types
-- [ ] support unordered types/interfaces
+- [ ] Support unordered types/interfaces
+- [ ] Support null type
